@@ -26,7 +26,7 @@ series [How to Contribute to an Open Source Project on GitHub][egghead]
 > can make all of your pull request branches based on this `main` branch.
 > Whenever you want to update your version of `main`, do a regular `git pull`.
 
-## Help needed
+## Help needed 
 
 Please checkout the [the open issues][issues]
 
